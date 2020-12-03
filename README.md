@@ -11,7 +11,12 @@ Bu projede hiçbir aracı otomasyon yazılımı kullanmadan yazılan "C" kodlar�
 •	WAGO 787-602 Güç Kaynağı
 
 Ayrıca aşağıdaki yazılımlara da ihtiyaç duymaktasınız.
+
 •	Visual Studio
 •	VisualGDB
 •	WAGO Ethernet Settings
 •	VirtualBox
+
+ADI-DAL kütüphanesinin içeriği hakkında aşağıdaki bağlantıdan bilgi alabilirsiniz.
+
+https://github.com/WAGO/pfc-howtos/blob/master/HowTo_ADI-MyKBusApplikation/a800010_en%20-%20ADI-DAL%20for%20PFC%20firmware%2011%20patch%202.pdf
